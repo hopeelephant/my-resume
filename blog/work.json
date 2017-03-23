@@ -1,0 +1,10 @@
+[
+  {"title":"云美丽首页","desc":"一个电商网站项目，总共包含六个子页面，含首页、列表页、详情页、支付页、注册页、登录页。并且包含基本的逻辑功能，购物车、轮播、标签页等等都是使用原生JS来开发的。","imgName":"beauty","demoAddress":"beauty"},
+  {"title":"hope网站","desc":"这里面写了一些好玩的东西","imgName":"hope1","demoAddress":"hope"},
+  {"title":"灯具网站","desc":"这里面写了一些好玩的东西","imgName":"light","demoAddress":"light"},
+  {"title":"生活网站","desc":"这里面写了一些好玩的东西","imgName":"live","demoAddress":"live"},
+  {"title":"手机端网站","desc":"这里面写了一些好玩的东西","imgName":"moble","demoAddress":"moble"},
+  {"title":"tribe网站","desc":"这里面写了一些好玩的东西","imgName":"tribe","demoAddress":"tribe"},
+  {"title":"troop网站","desc":"这里面写了一些好玩的东西","imgName":"troop","demoAddress":"troop"},
+  {"title":"英文网站","desc":"这里面写了一些好玩的东西","imgName":"xia","demoAddress":"xia"}
+]
